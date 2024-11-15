@@ -1,1 +1,0 @@
-path = "C:\\Users\\caitl\\OneDrive\\Pictures\\Saved Pictures\\"

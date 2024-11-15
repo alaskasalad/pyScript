@@ -1,4 +1,4 @@
-import os, shutil, schedule, time
+import os, shutil
 from dotenv import load_dotenv
 
 load_dotenv()
